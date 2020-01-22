@@ -1,9 +1,10 @@
 # Minisoap
 ## Install dependecies
 First you need to have python 3 and pip installed on your computer.
-You also will have to install ffmpeg on your computer. This can be done for instance on ubuntu just by running ```sudo apt install ffmpeg```.
+You also will have to install [ffmpeg](https://www.ffmpeg.org/download.html)
+ on your computer. This can be done for instance on ubuntu just by running ```sudo apt install ffmpeg```.
 
-Then you will have to install the requirements by typing ```pip install -r requirements.tst```
+Then you will have to install the requirements by typing ```pip install -r requirements.txt```
 
 ## Launching the interpreter
 To launch the interpreter you need to run ```python minisoap.py``` 
